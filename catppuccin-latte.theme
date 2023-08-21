@@ -1,0 +1,11 @@
+base: "SIMPLEX"
+colors:
+  accent: "#ff8839ef"           # mauve
+  accentVariant:: "#ff4c4f69"   # text
+  secondary: "#ff8839ef"        # mauve
+  secondaryVariant: "#ff4c4f69" # text
+  background: "#ffeff1f5"       # base
+  menus: "#ff8839ef"            # mauve
+  title: "#ff8839ef"            # mauve
+  sentMessage: "#ff4c4f69"      # text
+  receivedMessage: "#ff4c4f69"  # text

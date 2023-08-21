@@ -1,0 +1,11 @@
+base: "SIMPLEX"
+colors:
+  accent: "#fff5bde6"           # pink
+  accentVariant:: "#ffc6a0f6"   # mauve
+  secondary: "#fff5bde6"        # pink
+  secondaryVariant: "#ffc6a0f6" # mauve
+  background: "#ff24273a"       # base
+  menus: "#ff363a4f"            # surface0
+  title: "#ffb7bdf8"            # lavender
+  sentMessage: "#1ecad3f5"      # text
+  receivedMessage: "#20cad3f5"  # text
